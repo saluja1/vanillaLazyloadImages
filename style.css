@@ -1,0 +1,14 @@
+img {
+	max-width: 100%;
+	height: auto;
+	box-shadow: 5px 5px 50px black;
+}
+
+hr {
+	margin: 50px auto;
+}
+
+body {
+	max-width: 1000px;
+	margin: auto;
+}
